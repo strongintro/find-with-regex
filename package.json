@@ -1,5 +1,5 @@
 {
-  "name": "find-with-regex",
+  "name": "@strongintro/find-with-regex",
   "version": "1.0.2",
   "description": "findWithRegex util",
   "author": {
